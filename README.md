@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Twinkle
 
-<p align="center">
+<p align="center" height="200px" width="500px">
   <img src="twinkle.jpg" alt="Header Animation" />
 </p>
 
