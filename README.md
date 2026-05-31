@@ -20,17 +20,17 @@
 
 ## 🔭 What I’m Working On
 
-- 🚑 **Emergency Services Web App** (location-based features)
+- 🚑 **How Sysmteam design works?**
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** C, C++, JavaScript, Python
-- **Frontend:** HTML, CSS, React, Bootstrap, Tailwindcss
-- **Backend:** Node.js, Express
-- **Database:** MongoDB (basics)
+- **Languages:** C, C++, JavaScript, Python, TypeScript
+- **Frontend:** HTML, CSS, React, Bootstrap, Tailwindcss, Next.js
+- **Backend:** Node.js, Express, Next.js
+- **Database:** MongoDB, SQL, Prisma
 - **Tools:** Git, GitHub, VS Code
-- **CS Fundamentals:** DSA, OOPS
+- **CS Fundamentals:** DSA, OOPS, OS, DBMS
 
 ---
 
