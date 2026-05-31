@@ -20,7 +20,7 @@
 
 ## 🔭 What I’m Working On
 
-- 🚑 **How Sysmteam design works?**
+- 🚑 **How System design works?**
 ---
 
 ## 🧰 Tech Stack
